@@ -29,7 +29,8 @@ def gcd():
     print("GCD of two numbers is:",a)
 
 ## Output:
-![image](https://github.com/vigneshvickyu/GCD-of-two-numbers/assets/151948835/094b83e5-5b65-4c7b-ac91-b2070f2a0f08)
+![image](https://github.com/vigneshvickyu/GCD-of-two-numbers/assets/151948835/a6d80e56-6b95-4bde-a547-92d0c4ae5a1d)
+
 
 
 
